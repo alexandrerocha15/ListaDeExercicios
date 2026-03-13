@@ -17,6 +17,4 @@ decimal distanciaPercorrida = kmFinal - kmInicial;
 
 decimal consumoLitrosPorKm = distanciaPercorrida / combustivelConsumido;
 
-Console.WriteLine($"O consumo de combústivel durante o percurso foi de ~: {consumoLitrosPorKm} km/L");
-
-Console.ReadLine();
+Console.WriteLine($"O consumo de combústivel durante o percurso foi aproximandamente: {consumoLitrosPorKm} km/L");
