@@ -11,7 +11,7 @@
 
 Console.Clear();
 Console.WriteLine("- = - = - = - = -");
-Console.WriteLine("Exercicio 19 ");
+Console.WriteLine("Exercicio 20 ");
 Console.WriteLine("- = - = - = - = -");
 Console.WriteLine();
 Console.Write("Informe um número para ver a tabuada: ");
